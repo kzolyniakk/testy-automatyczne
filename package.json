@@ -1,0 +1,19 @@
+{
+  "name": "cypress-projekt",
+  "version": "1.0.0",
+  "description": "automatyzacja testow w cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automatyzacjia",
+    "cypress",
+    "testy"
+  ],
+  "author": "Karol Żołyniak",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.5.1"
+  }
+}
